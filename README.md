@@ -1,0 +1,1 @@
+# ns-with-istio-injection
