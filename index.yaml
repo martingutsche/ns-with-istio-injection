@@ -3,12 +3,12 @@ entries:
   ns-with-istio-injection:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-24T12:12:27.198791817+02:00"
+    created: "2021-05-24T12:47:26.358491678+02:00"
     description: Creates .Release.Namespace with istio-injection=enabled
-    digest: f5f0aab33880e8c0e02d75b7ccd2469ab5d9cecf6b73ba4808650aa1e5ffd01d
+    digest: 00491af50bd220c9a66513d88b6ca77133184503d240b3e3059de752df0c5dd5
     name: ns-with-istio-injection
     type: application
     urls:
     - https://martingutsche.github.io/ns-with-istio-injection/ns-with-istio-injection-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-24T12:12:27.198517151+02:00"
+generated: "2021-05-24T12:47:26.358113512+02:00"
